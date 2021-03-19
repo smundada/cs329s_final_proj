@@ -1,8 +1,4 @@
-# iOS chat tutorial: Building A Realtime Messaging App
+# Bilingual Buddy
 
-These are the project files for the [Scaledrone iOS chat tutorial](https://www.scaledrone.com/blog/posts/ios-chat-tutorial).
+CS329s final project code for app
 
-To run this example make sure to replace `YOUR-CHANNEL-ID` in [`ChatService.swift`](https://github.com/ScaleDrone/ios-chat-tutorial/blob/master/ScaledroneChat/ChatService.swift).
-
-This project works with Xcode 10 and Swift 4.2.
-# cs329s_final_proj
