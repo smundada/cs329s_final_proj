@@ -1,0 +1,40 @@
+PODS:
+  - MessageKit (1.0.0)
+  - PromiseKit (6.13.1):
+    - PromiseKit/CorePromise (= 6.13.1)
+    - PromiseKit/Foundation (= 6.13.1)
+    - PromiseKit/UIKit (= 6.13.1)
+  - PromiseKit/CorePromise (6.13.1)
+  - PromiseKit/Foundation (6.13.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.13.1):
+    - PromiseKit/CorePromise
+  - ROGoogleTranslate (0.0.5)
+  - Scaledrone (0.3.0):
+    - Starscream (~> 2.1.0)
+  - Starscream (2.1.1)
+
+DEPENDENCIES:
+  - MessageKit
+  - PromiseKit (~> 6.8)
+  - ROGoogleTranslate
+  - Scaledrone (~> 0.3.0)
+
+SPEC REPOS:
+  trunk:
+    - MessageKit
+    - PromiseKit
+    - ROGoogleTranslate
+    - Scaledrone
+    - Starscream
+
+SPEC CHECKSUMS:
+  MessageKit: 16160036b16476b04bd0e9f2c7ce67e662e503e4
+  PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  ROGoogleTranslate: 344d579487c21af1ae54138baa68605b861ba84e
+  Scaledrone: 25e5e70107222ed50046fc0ed9569915bdb85262
+  Starscream: 142bd8ef24592d985daee9fa48c936070b85b15f
+
+PODFILE CHECKSUM: 8f0db3ec05578171161b7479d5a30d0aa7ab8576
+
+COCOAPODS: 1.9.3
